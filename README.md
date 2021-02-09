@@ -3,7 +3,7 @@
 [![Test Coverage](https://codeclimate.com/github/cnadiminti/dotfiles/badges/coverage.svg)](https://codeclimate.com/github/cnadiminti/dotfiles/coverage)
 [![Issue Count](https://codeclimate.com/github/cnadiminti/dotfiles/badges/issue_count.svg)](https://codeclimate.com/github/cnadiminti/dotfiles)
 
-# Chandra does dotfiles
+# Crisdev Dotfiles
 
 These dotfiles are to personalize my system.
 They have been evolving along with my software development experience.
